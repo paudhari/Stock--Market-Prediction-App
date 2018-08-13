@@ -1,0 +1,14 @@
+[0m[[0m[31merror[0m] [0m[0m/root/Sudhanshu/.p/stockPrediction/src/main/scala/stockPredictionMain.scala:23:58: value $ is not a member of StringContext[0m
+[0m[[0m[31merror[0m] [0m[0mval closeStockInputDf = input_data.select(unix_timestamp($"date", "MM/dd/yyyy").cast(TimestampType).as("timestamp"),$"symbol",$"close").withColumnRenamed("close","price")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/root/Sudhanshu/.p/stockPrediction/src/main/scala/stockPredictionMain.scala:23:117: value $ is not a member of StringContext[0m
+[0m[[0m[31merror[0m] [0m[0mval closeStockInputDf = input_data.select(unix_timestamp($"date", "MM/dd/yyyy").cast(TimestampType).as("timestamp"),$"symbol",$"close").withColumnRenamed("close","price")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/root/Sudhanshu/.p/stockPrediction/src/main/scala/stockPredictionMain.scala:23:127: value $ is not a member of StringContext[0m
+[0m[[0m[31merror[0m] [0m[0mval closeStockInputDf = input_data.select(unix_timestamp($"date", "MM/dd/yyyy").cast(TimestampType).as("timestamp"),$"symbol",$"close").withColumnRenamed("close","price")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/root/Sudhanshu/.p/stockPrediction/src/main/scala/stockPredictionMain.scala:38:5: value toDF is not a member of com.cloudera.sparkts.TimeSeriesRDD[String][0m
+[0m[[0m[31merror[0m] [0m[0mpossible cause: maybe a semicolon is missing before `value toDF'?[0m
+[0m[[0m[31merror[0m] [0m[0m }}.toDF("symbol","values")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

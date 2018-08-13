@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /root/Sudhanshu/.p/stockPrediction/target/scala-2.11/stock_prediction_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stockPrediction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/Sudhanshu/.p/stockPrediction/target/scala-2.11/classes/stockPrediction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stockPrediction$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/Sudhanshu/.p/stockPrediction/target/scala-2.11/classes/stockPrediction$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stockPrediction$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/Sudhanshu/.p/stockPrediction/target/scala-2.11/classes/stockPrediction$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stockPrediction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/Sudhanshu/.p/stockPrediction/target/scala-2.11/classes/stockPrediction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stockPrediction$$anonfun$2$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/Sudhanshu/.p/stockPrediction/target/scala-2.11/classes/stockPrediction$$anonfun$2$$anonfun$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
