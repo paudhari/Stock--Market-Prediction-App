@@ -1,2 +1,2 @@
-# Stock--Market-Prediction-App
+# Stock-Market-Prediction-App
 Uploading files
